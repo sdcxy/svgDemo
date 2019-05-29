@@ -10,11 +10,6 @@
                 class-name="shouye"
                 font-size="100">
         </svg-icon>
-        <svg-icon
-                icon-class="shouye"
-                class-name="shouye"
-                font-size="100">
-        </svg-icon>
     </div>
 </template>
 
